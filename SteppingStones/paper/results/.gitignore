@@ -1,0 +1,9 @@
+*
+!.gitignore
+!*.tex
+!*.bib
+!*.md
+!figures/
+!tables/
+!*.png
+!*.jpg
