@@ -1,3 +1,12 @@
+/kellogg/proj/lgg3230/SteppingStones/data/interim/
+data/raw/mun_microregion_ibge.dta
+data/interim/sample.zip.zip
+data/interim/sample/
+data/interim/rais_mode_mun_ind.dta
+data/interim/sample.zip.zip
+data/interim/rais_mode_mun_ind.dta
+data/
+SteppingStones/data/interim/rais_mode_mun_ind.dta 
 SteppingStones/data/literature/README.md
 SteppingStones/data/raw/ipca.csv
 SteppingStones/data/raw/README.md
@@ -57,3 +66,4 @@ SteppingStones/data/
 *.m4a
 *.yml
 SteppingStones/LICENSE
+/kellogg/proj/lgg3230/SteppingStones/data/interim/rais_mode_mun_ind.dta
