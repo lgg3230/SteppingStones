@@ -26,7 +26,7 @@ rng  = np.random.default_rng(seed=123)
 
 for f in dta_files:
     # Extract year from filename
-    year = re.search(r"RAIS_(\d{4})\.dta", f.name).group(1)
+    year = re.search(r"RAIS_(\d{4})\_rj.dta", f.name).group(1)
     print(f"Processing year {year}...")
     # Load data
     df_year = pd.read_stata(f, convert_categoricals=False)
